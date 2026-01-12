@@ -16,36 +16,37 @@ Para este proyecto hemos ayudado a Adalab airlines, una aerolínea española, co
 Los problemas de negocio planteados por Adalab airlines son: 
 - Tiempos de espera prolongados  
 - Retrasos e incertidumbre  
-- Estrés durante procesos como el check-in o el embarque  
+- Estrés durante procesos como el check-in o el embarque.  
 
 Desde **FlightCraft** les propusimos una solución basada en la **gamificación**, desarrollando juegos sencillos e interactivos que ayuden a:
-- Reducir la percepción del tiempo de espera  
+- Reducir la percepción del tiempo de espera 
 - Mejorar el estado emocional de los pasajeros  
 - Incrementar el engagement digital con la marca  
-- Fomentar la fidelización  
+- Fomentar la fidelización.  
 
 ## 🎮 Juegos desarrollados
 ### 🕹️ Piedra, Papel o Tijera
-Juego clásico en el que el usuario compite contra el ordenador.  
-El sistema genera elecciones aleatorias y evalúa el resultado de cada ronda, mostrando el resultado al jugador.
 
 **Funcionalidades principales:**
 - El juego es jugable contra el ordenador
-- El juego sigue las reglas estándar de piedra, papel y tijera. 
-- El juego se ejecuta en rondas.
-- Cada victoria suma un punto.
+- El juego sigue las reglas estándar de piedra, papel y tijera
+- El juego se ejecuta en rondas
+- Cada victoria suma un punto
 - Puntos objetivo para terminar el juego: 3 
-- Se muestran mensajes claros al usuario según avanza el juego.
-- El código tiene que estar bien estructurado y dar la opción al usuario de finalizar el juego cuando lo elija. 
+- Se muestran mensajes claros al usuario según avanza el juego
+- El código tiene que estar bien estructurado y dar la opción al usuario de finalizar el juego cuando lo elija
 
 ### 🧠 Preguntas y Respuestas
-- El juego se juega contra el ordenador.
-- El quiz está enfocado en preguntas de geografía. 
-- Le mostramos al usuario tres opciones de respuesta (A, B, C) y hay solamente una correcta.
+
+**Funcionalidades principales:**
+
+- El juego se juega contra el ordenador
+- El quiz está enfocado en preguntas de geografía
+- Le mostramos al usuario tres opciones de respuesta (A, B, C) y hay solamente una correcta
 - El juego se ejecuta en rondas.
-- El juego registra las preguntas correctas e incorrectas. Cuando el usuario llega a 5 correctas o a 3 incorrectas, el juego se para.
-- Se muestan mensajes claros al usuario según avanza el juego. 
-- El código tiene que estar bien estructurado y dar la opción al usuario de finalizar el juego cuando lo elija. 
+- El juego registra las preguntas correctas e incorrectas. Cuando el usuario llega a 5 correctas o a 3 incorrectas, el juego se para
+- Se muestan mensajes claros al usuario según avanza el juego
+- El código tiene que estar bien estructurado y dar la opción al usuario de finalizar el juego cuando lo elija
 
 ## 📁 Estructura del repositorio
 ```text
@@ -69,6 +70,6 @@ El sistema genera elecciones aleatorias y evalúa el resultado de cada ronda, mo
    git clone https://github.com/eva5ferrer/proyecto-da-promo-63-modulo-1-team-2.git 
    ```
 2) Abrir Jupyter Notebook
-3) Abrir el archivo .ipynb del juego que se quiera ejecutar.
-4) Ejecutar las celdas siguiendo las instrucciones del notebook.
+3) Abrir el archivo .ipynb del juego que se quiera ejecutar
+4) Ejecutar las celdas siguiendo las instrucciones del notebook
 
