@@ -8,7 +8,7 @@ Equipo **FlightCraft**:
 
 - **Eva Ferrer** – Scrum Master  
 - **Barbra Sánchez** – Scrum Team  
-- **Marta Levin** – Scrum Team  
+- **Marta Lavin** – Scrum Team  
 - **Saray H. Fleitas** – Scrum Team
 
 ## 🏢 Contexto y objetivo del proyecto
@@ -26,7 +26,7 @@ Desde **FlightCraft** les propusimos una solución basada en la **gamificación*
 
 ## 🎮 Juegos desarrollados
 ### 🕹️ Piedra, Papel o Tijera
-uego clásico en el que el usuario compite contra el ordenador.  
+Juego clásico en el que el usuario compite contra el ordenador.  
 El sistema genera elecciones aleatorias y evalúa el resultado de cada ronda, mostrando el resultado al jugador.
 
 **Funcionalidades principales:**
