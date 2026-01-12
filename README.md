@@ -52,7 +52,7 @@ El sistema genera elecciones aleatorias y evalúa el resultado de cada ronda, mo
 ├── piedra_papel_tijera.ipynb
 ├── preguntas_respuestas.ipynb
 └── README.md 
-
+```
 
 ## 🛠️ Tecnologías y herramientas utilizadas
 
@@ -64,11 +64,11 @@ El sistema genera elecciones aleatorias y evalúa el resultado de cada ronda, mo
 
 ## ▶️ Cómo ejecutar los juegos
 
-1. Clonar el repositorio:
+1) Clonar el repositorio:
    ```bash
-   git clone https://github.com/eva5ferrer/proyecto-da-promo-63-modulo-1-team-2.git
-2. Abrir Jupyter Notebook:
- jupyter notebook
-3. Abrir el archivo .ipynb del juego que se quiera ejecutar.
-4. Ejecutar las celdas siguiendo las instrucciones del notebook.
+   git clone https://github.com/eva5ferrer/proyecto-da-promo-63-modulo-1-team-2.git 
+   ```
+2) Abrir Jupyter Notebook
+3) Abrir el archivo .ipynb del juego que se quiera ejecutar.
+4) Ejecutar las celdas siguiendo las instrucciones del notebook.
 
